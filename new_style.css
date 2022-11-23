@@ -1,0 +1,124 @@
+body {
+
+width: 940px;
+}
+
+.logo1 {
+position: relative;
+
+}
+
+.logo2 {
+
+position: absolute;
+top:  60px;
+left: 580px;
+}
+
+.logo3 {
+
+position: absolute;
+top:  0px;
+left: 50px;
+
+}
+
+
+.logo4 {
+
+position: absolute;
+top:  500px;
+left: 600px;
+
+}
+
+.parte2 h1 {
+
+position: absolute;
+top: 800px;
+left: 290px;
+font-family: sans-serif;
+
+}
+
+.parte2 p {
+
+position: absolute;
+top: 850px;
+left: 290px;
+width: 300px;
+font-family: sans-serif;
+
+}
+
+
+.logo7 {
+
+position: absolute;
+top: 1300px;
+left: 990px;
+}
+
+h2 {
+
+position: absolute;
+top: 1380px;
+left: 760px;
+font-family: sans-serif;
+font-size: 35px;
+
+}
+
+p {
+
+position: absolute;
+top: 1450px;
+left: 760px;
+width: 300px;
+font-family: sans-serif;
+
+}
+
+h3 {
+
+position: absolute;
+top: 1800px;
+left: 500px;
+font-family: sans-serif;
+font-size: 35px;
+text-align: center;
+
+}
+
+.barra {
+position: absolute;
+top: 1800px;
+left: 300px;
+}
+
+.fotos {
+width: 940px;
+position: absolute;
+top: 2150px;
+left: 340px;
+padding-left: 15px;
+}
+
+footer {  
+
+position: absolute;
+top: 2650px;
+left: 0px;
+margin: 0 auto;
+
+}
+
+
+
+
+
+
+
+
+
+
